@@ -1,0 +1,67 @@
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# 2012\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\A-D\Bankamatik Sistemi\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\2 DEVAM EDEN PROJELER\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Müşteri.resources
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+C:\Users\murat\Desktop\6 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Müşteri.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Parayatır.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\2 BANKAMATİK SİSTEMİ\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Bankamatik.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.exe
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Bankamatik.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Giriş.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Müşteri.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Parayatır.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik_Sistemi.Yönetici.resources
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\obj\x86\Debug\Bankamatik Sistemi.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.exe
+E:\03 - Yazılım\05 - Büyük Projeler\15 Bankamatik Sistemi v6.0\Bankamatik Sistemi\bin\Debug\Bankamatik Sistemi.pdb
